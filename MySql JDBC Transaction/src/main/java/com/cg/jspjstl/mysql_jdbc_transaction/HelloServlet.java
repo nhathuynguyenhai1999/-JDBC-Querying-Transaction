@@ -1,10 +1,14 @@
 package com.cg.jspjstl.mysql_jdbc_transaction;
 
 import java.io.*;
-import java.sql.SQLException;
+import java.math.BigDecimal;
+import java.sql.*;
+import java.time.LocalDateTime;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
+
+import static java.sql.DriverManager.getConnection;
 
 @WebServlet(name = "helloServlet", value = "/hello-servlet")
 public class HelloServlet extends HttpServlet {

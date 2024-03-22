@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4ea9d84-eb28-453b-b2be-9dbcb098fb2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../MySql Stored Procedures/src/main/java/com/cg/jspjstl/mysql_stored_procedures/IUSerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/jspjstl/mysql_jdbc_transaction/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/jspjstl/mysql_jdbc_transaction/HelloServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2e2Iv8uMiJo9GbOZH8wDlVJL8zl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +34,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -90,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711096474806</updated>
       <workItem from="1711096475931" duration="128000" />
+      <workItem from="1711097034463" duration="859000" />
     </task>
     <servers />
   </component>
